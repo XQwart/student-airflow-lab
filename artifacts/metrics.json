@@ -1,0 +1,13 @@
+{
+  "rmse": 2.0169,
+  "mae": 1.3119,
+  "r2": 0.7897,
+  "timestamp": "2026-03-09T18:38:56.730608",
+  "model_params": {
+    "alpha": 0.1,
+    "l1_ratio": 0.001,
+    "penalty": "l1",
+    "loss": "squared_error",
+    "fit_intercept": true
+  }
+}
